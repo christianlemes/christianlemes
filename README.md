@@ -1,7 +1,7 @@
 # Olá, eu sou o Christian
 
 Estudante de Desenvolvimento de Sistemas  
-Focado em Web e Apps  
+Foco em Web e Backend 
 
 ---
 
@@ -10,13 +10,14 @@ Focado em Web e Apps
 - CSS
 - JavaScript
 - C#
+- Java
 - MySQL
 
 ---
 
 # Estatísticas
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=dark)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=christianlemes&show_icons=true&theme=dark)
 
 ---
 
