@@ -22,4 +22,5 @@ Atualmente aprimorando conhecimentos em programação, lógica e desenvolvimento
 
 ## Contato
 
+- Linkedin: https://www.linkedin.com/in/christian-lemes-souza-813b14358/
 - Email: souzachristianlemes@gmail.com
