@@ -1,20 +1,25 @@
 # Olá, eu sou o Christian
 
 Estudante de Desenvolvimento de Sistemas  
-Foco em Web e Backend 
+Focado em desenvolvimento Web e Backend  
 
 ---
 
-# Conhecimentos
-- HTML
-- CSS
-- JavaScript
-- C#
-- Java
-- MySQL
+## Sobre mim
+
+Sou um desenvolvedor em formação, com foco em construção de aplicações web e backend.  
+Atualmente aprimorando conhecimentos em programação, lógica e desenvolvimento de sistemas.
 
 ---
 
-# Contato
+## Tecnologias
+
+<div>
+  <img src="https://skillicons.dev/icons?i=html,css,js,cs,java,mysql" />
+</div>
+
+---
+
+## Contato
 
 - Email: souzachristianlemes@gmail.com
