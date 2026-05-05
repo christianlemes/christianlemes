@@ -15,12 +15,6 @@ Foco em Web e Backend
 
 ---
 
-# Estatísticas
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=christianlemes&show_icons=true&theme=dark)
-
----
-
 # Contato
 
 - Email: souzachristianlemes@gmail.com
